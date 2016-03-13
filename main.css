@@ -9,3 +9,6 @@
 .ready { 
 	color: green; 
 }
+button { 
+	border-radius: 50%; 
+}
